@@ -38,11 +38,11 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JohnDev19/wanderlust-chronicles-web-template.git
+   git clone https://github.com/JohnDev19/wanderlust-chronicles-website.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd wanderlust-chronicles-web-template
+   cd wanderlust-chronicles-website
    ```
 3. Open `index.html` in your web browser to view the template.
 
